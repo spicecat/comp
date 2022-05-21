@@ -1,0 +1,11 @@
+*
+!*.*
+!*/
+*.class
+*.sm
+*.dSYM
+
+*/.DS_Store/*
+*/bin/*
+!*/bin/*.jar
+*/bin/library.jar

@@ -1,0 +1,19 @@
+git add . && git commit -m 'a' && git push
+
+Graph
+Jan2022/HW6/BreadthFirstSearch.cpp bfs shortest distance
+Jan2022/HW6/OilDeposits.cpp: count connected components
+
+Permutation
+std::algorithm: next_permutation
+std::bitset
+
+greedy
+2 pointer
+dfs stack; discover time>ancestor
+bfs queue; shortest distance, shortest path: prev jump
+permutation: bitset
+kth-permutation: digit d = k/(n-d)!
+
+Prefix Sum
+Jan2022/Lab9/TheMaximumSubarray.cpp
